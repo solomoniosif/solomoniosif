@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Iosif Solomon</h1>
 <h3 align="center">A am a junior Python developer passionate about learning new technologies</h3>
 
+<!--
 - 🔭 I’m currently working on [Shift Scheduler](https://github.com/solomoniosif/shift_scheduler)
-
-- 🌱 I’m currently learning **Django, Vue**
+-->
+- 🌱 I’m currently learning **Django**
 
 
 <h3 align="left">Connect with me:</h3>
