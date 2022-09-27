@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Iosif Solomon</h1>
 
-<h3 align="center">A am a junior Python developer passionate about learning new technologies</h3>
+<h3 align="center">I am a junior Python developer passionate about learning new technologies</h3>
 
 <p align="center">
 
