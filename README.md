@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently working on [allocatr](https://github.com/solomoniosif/allocatr) -->
 
-- 🌱 I’m currently learning **Django, Alpine.js, htmx**
+- 🌱 I’m currently learning **Django, Alpine.js, htmx, Tailwind**
 
 - 📫 You can reach me at **contact@iosifsolomon.ro**
 
