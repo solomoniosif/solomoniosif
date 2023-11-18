@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomoniosif&label=Profile%20views&color=0e75b6&style=flat" alt="solomoniosif" /> </p>
 
-- 🔭 I’m currently working on [allocatr](https://github.com/solomoniosif/allocatr)
+<!-- - 🔭 I’m currently working on [allocatr](https://github.com/solomoniosif/allocatr) -->
 
 - 🌱 I’m currently learning **Django, Alpine.js, htmx**
 
